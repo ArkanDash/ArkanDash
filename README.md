@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [RVC Inference](https://github.com/ArkanDash/Multi-Model-RVC-Inference)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript**, **Python**
 
 - 📫 How to reach me **suckgamer0@gmail.com**
 
