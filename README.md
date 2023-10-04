@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arkandash</h1>
 <h3 align="center">A developer from Indonesia</h3>
 
+<p>Focusing on learning Next.js and React.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkandash&label=Profile%20views&color=0e75b6&style=flat" alt="arkandash" /> </p>
-
-- 🔭 I’m currently working on [RVC Inference](https://github.com/ArkanDash/Multi-Model-RVC-Inference)
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [RVC Inference](https://github.com/ArkanDash/Multi-Model-RVC-Inference)
-
-- 💬 Ask me about **Javascript**, **Python**
-
-- 📫 How to reach me **suckgamer0@gmail.com**
-
-- ⚡ Fun fact **Anything is possible as long you can reach it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
