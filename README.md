@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arkandash</h1>
-<h3 align="center">A developer from Indonesia</h3>
+<h1 align="center">Hi there👋, I'm Arkandash</h1>
+<h3 align="center">Just an ordinary programmer, I like anime & music stuff.<h4>
+  
+----
 
-<p>Focusing on learning Next.js and React.</p>
+<img src="https://komarev.com/ghpvc/?username=arkandash&label=Visitor&color=0e75b6&style=flat" alt="arkandash" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkandash&label=Profile%20views&color=0e75b6&style=flat" alt="arkandash" /> </p>
+<h3>What am I doing right now?</h3>
+
+- Learning Next.js & React
+- Fixing RVC Inference
+- Making Discord Bot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
