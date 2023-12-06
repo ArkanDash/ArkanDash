@@ -7,7 +7,7 @@
 
 <h3>What am I doing right now?</h3>
 
-- Learning Next.js & React
+- Learning Unity & C#
 - Fixing RVC Inference
 - Making Discord Bot
 
