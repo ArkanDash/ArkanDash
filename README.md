@@ -7,9 +7,8 @@
 
 <h3>What am I doing right now?</h3>
 
-- Learning Unity & C#
+- Learning Frontend & Backend Infrastructure
 - Fixing RVC Inference
-- Making Discord Bot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
