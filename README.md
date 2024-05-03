@@ -7,8 +7,7 @@
 
 <h3>What am I doing right now?</h3>
 
-- Learning Frontend & Backend Infrastructure
-- Fixing RVC Inference
+- Stuck on No Goal
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
