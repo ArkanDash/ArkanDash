@@ -8,7 +8,7 @@
 
 ## Project I'm currently interested on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endergreen12&repo=SCHALE.GameServer&&theme=midnight-purple)](https://github.com/Endergreen12/SCHALE.GameServer/)
+- None
 
 ## My Github Stats
 <p align="left">
