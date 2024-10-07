@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arkandash&label=Visitor&color=A020F0&style=flat" alt="arkandash" />
 </div>
-<h4>I'm ArkanDash, an ordinary weeb programmer. I like blue archive & genshin impact stuff. I usually watch anime and music too.</h4>
+<h4>I'm ArkanDash, an ordinary weeb programmer. I like blue archive stuff. I usually watch anime and listening to music too.</h4>
   
 ----
 
