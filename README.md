@@ -2,13 +2,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arkandash&label=Visitor&color=A020F0&style=flat" alt="arkandash" />
 </div>
-<h4>I'm ArkanDash, an ordinary weeb programmer. I like blue archive stuff. I usually watch anime and listening to music too.</h4>
-  
+<h2>Hello there, I'm ArkanDash</h2>
+I'm a software developer specializing in C#, Python, and Javascript/Typescript language.
+I love turning complex or mess problems into simple, beautiful, and efficient code.
+Deeply interested on game architecture, AI, datamining, and a bit of reverse engineering.
+
 ----
-
-## Project I'm currently interested on
-
-- None
 
 ## My Github Stats
 <p align="left">
