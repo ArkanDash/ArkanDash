@@ -3,9 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=arkandash&label=Visitor&color=A020F0&style=flat" alt="arkandash" />
 </div>
 <h2>Hello there, I'm ArkanDash</h2>
-I'm a software developer specializing in C#, Python, and Javascript/Typescript language.
-I love turning complex or mess problems into simple, beautiful, and efficient code.
-Deeply interested on game architecture, AI, datamining, and a bit of reverse engineering.
+
+<h4>
+    <strong>
+        A Software Developer specializing in C#, Python, and the JavaScript/TypeScript ecosystem.<br>
+        I thrive on transforming complex, messy problems into simple, beautiful, and efficient code.<br>
+        Deeply interested in Game Architecture, AI, Data Mining, and a bit of Reverse Engineering.<br>
+        Driven by continuous growth and the exploration of next-generation technology.
+    </strong>
+</h4>
 
 ----
 
