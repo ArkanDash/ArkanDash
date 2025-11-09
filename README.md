@@ -1,9 +1,4 @@
-<h1 align="center">Welcome to my profile</h1>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arkandash&label=Visitor&color=A020F0&style=flat" alt="arkandash" />
-</div>
 <h2>Hello there, I'm ArkanDash</h2>
-
 <h4>
     <strong>
         A Software Developer specializing in C#, Python, and the JavaScript/TypeScript ecosystem.<br>
@@ -12,8 +7,9 @@
         Driven by continuous growth and the exploration of next-generation technology.
     </strong>
 </h4>
+<img src="https://komarev.com/ghpvc/?username=arkandash&label=Visitor&color=A020F0&style=flat" alt="arkandash" />
 
-----
+-----
 
 ## My Github Stats
 <p align="left">
