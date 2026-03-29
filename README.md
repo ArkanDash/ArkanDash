@@ -13,8 +13,8 @@
 
 ## My Github Stats
 <p align="left">
-  <img alt="Github Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arkandash&show_icons=true&bg_color=000000&locale=en&theme=midnight-purple" />
-  <img alt="Language Stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkandash&show_icons=true&locale=en&layout=compact&card_width=350&theme=midnight-purple" />
+  <img alt="Github Stats" height="150px" src="https://github-stats-extended.vercel.app/api?username=arkandash&show_icons=true&bg_color=000000&locale=en&theme=midnight-purple" />
+  <img alt="Language Stats" height="150px" src="https://github-stats-extended.vercel.app/api/top-langs?username=arkandash&show_icons=true&locale=en&layout=compact&card_width=350&theme=midnight-purple" />
 </p>
 
 ## Support me
