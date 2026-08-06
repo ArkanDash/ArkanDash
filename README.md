@@ -18,6 +18,11 @@
 </p>
 
 ## Support me
-<div align="center">
-  <a href='https://ko-fi.com/R6R5LLXHD' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<p align="center">
+  <a href="https://sociabuzz.com/arkandash/tribe" target="_blank">
+    <img src="https://storage.sociabuzz.com/storage/account/image/feature-tribe.png" alt="Support me on SociaBuzz" height="36" style="border:0px;height:36px;">
+  </a>
+  <a href="https://ko-fi.com/arkandash" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="36" style="border:0px;height:36px;">
+  </a>
+</p>
